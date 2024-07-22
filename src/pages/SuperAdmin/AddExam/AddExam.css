@@ -1,0 +1,13 @@
+.add-exam-container {
+    padding: 24px;
+  }
+  
+  .submit-button {
+    background-color: forestgreen;
+    border-color: forestgreen;
+  }
+  
+  .cancel-button {
+    margin-left: 8px;
+  }
+  
